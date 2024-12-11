@@ -3,7 +3,6 @@ import subprocess
 
 path = "c:\yt-dpl\dowloads\list.txt"
 
-# Função principal
 def main():
     try:
         with open(path, 'r') as f:
